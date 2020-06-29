@@ -13,5 +13,5 @@ for i in range(1, 101):
 	elif i % 5 == 0.0:
 		print("Buzz!")
 	# divisible by neither
-	elif i % 3 != 0.0 and i % 5 != 0.0:
+	else:
 		print(i)
