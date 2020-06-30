@@ -25,5 +25,5 @@ def h_outputs(x=net):
 # save profit to a var
 final = h_outputs()
 
-# print the output
+# print the output variable
 print(final)
